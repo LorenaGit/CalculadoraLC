@@ -1,0 +1,6 @@
+c:\users\505\documents\visual studio 2015\Projects\CalculadoraLC\CalculadoraLC\bin\Debug\CalculadoraLC.exe.config
+c:\users\505\documents\visual studio 2015\Projects\CalculadoraLC\CalculadoraLC\obj\Debug\CalculadoraLC.csprojResolveAssemblyReference.cache
+c:\users\505\documents\visual studio 2015\Projects\CalculadoraLC\CalculadoraLC\bin\Debug\CalculadoraLC.exe
+c:\users\505\documents\visual studio 2015\Projects\CalculadoraLC\CalculadoraLC\bin\Debug\CalculadoraLC.pdb
+c:\users\505\documents\visual studio 2015\Projects\CalculadoraLC\CalculadoraLC\obj\Debug\CalculadoraLC.exe
+c:\users\505\documents\visual studio 2015\Projects\CalculadoraLC\CalculadoraLC\obj\Debug\CalculadoraLC.pdb
